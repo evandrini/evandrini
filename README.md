@@ -39,6 +39,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/lobato-evandro888))]([LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/lobato-evandro888))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[LINK-DO-SEU-LINKEDIN](https://br.linkedin.com/in/lobato-evandro888)](https://br.linkedin.com/in/lobato-evandro888))]((https://br.linkedin.com/in/lobato-evandro888))
 [![Gmail Badge](https://img.shields.io/badge/-lobatoevandro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lobatoevandro@gmail.com)](mailto:lobatoevandro@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/evandrini))
