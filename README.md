@@ -1,19 +1,32 @@
+Desenvolvedor freelancer com foco em aplicações web, experiência do usuário, automações inteligentes e soluções digitais orientadas a resultado.
+
+Atuo criando interfaces, landing pages, integrações, workflows automatizados e sistemas que ajudam negócios a melhorar operação, presença digital e conversão.
+
+Minha base combina desenvolvimento full stack, UX, produto digital, marketing estratégico e automação com IA.
+
 ## Sobre mim
 
-Sou desenvolvedor freelancer com foco em experiência do usuário, produto digital e soluções orientadas a resultado.  
-Atuo construindo aplicações web, interfaces, automações inteligentes e integrações que resolvem problemas reais e melhoram a jornada do usuário.
-
-🎓 Formação Full Stack pela Infinity School  
-💻 Desenvolvedor Freelancer  
+🎓 Formação Dev. Full Stack pela Infinity School  
+💻 Desenvolvedor freelancer  
 🏢 Colaboração remota em projetos digitais da Fit Laser  
-🤖 Desenvolvimento de automações e agentes de IA  
-🧠 Forte interesse em UX aplicado ao desenvolvimento e crescimento de produtos  
-🚀 Construção de aplicações web, landing pages, integrações e workflows inteligentes  
-📈 Foco em performance, usabilidade e conversão  
+🤖 Desenvolvimento de automações, integrações e agentes de IA  
+🧠 Interesse em UX aplicado ao desenvolvimento de produtos  
+🚀 Construção de aplicações web, landing pages e workflows inteligentes  
+📈 Foco em performance, usabilidade, clareza e conversão  
 
-Atualmente aprofundando conhecimentos em arquitetura de software, engenharia de produto, automação inteligente e escalabilidade de aplicações.
+Atualmente estou aprofundando meus conhecimentos em arquitetura de software, engenharia de produto, automação inteligente, APIs, escalabilidade e aplicações orientadas à experiência do usuário.
 
----
+## Principais áreas de atuação
+
+- Desenvolvimento front-end
+- Aplicações web responsivas
+- UX e interfaces digitais
+- Landing pages de alta conversão
+- Integrações com APIs
+- Automações com IA
+- Workflows inteligentes
+- Sistemas internos para negócios
+- Otimização de presença digital
 
 ## Stack principal
 
@@ -26,7 +39,7 @@ Atualmente aprofundando conhecimentos em arquitetura de software, engenharia de 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-### Back-end e dados
+### Back-end, APIs e dados
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -38,26 +51,21 @@ Atualmente aprofundando conhecimentos em arquitetura de software, engenharia de 
 ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-333333?style=flat)
 ![API Integration](https://img.shields.io/badge/-API%20Integration-333333?style=flat)
+![Automation](https://img.shields.io/badge/-Automation-333333?style=flat)
 
 ### Mobile e multiplataforma
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-
----
 
 ## Integração e testes de API
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
----
-
 ## Versionamento e DevOps
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
----
 
 ## Ferramentas de produto e design
 
@@ -66,7 +74,26 @@ Atualmente aprofundando conhecimentos em arquitetura de software, engenharia de 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
----
+## Projetos em destaque
+
+### Uber Split
+Aplicação web para divisão justa de corridas com múltiplas paradas, considerando quem desce primeiro e quem continua no trajeto.
+
+Tecnologias: React, TypeScript, Vite, UX, lógica de cálculo e deploy no GitHub Pages.
+
+### Consulta CNPJ
+Aplicação para consulta de dados públicos de empresas via API, com interface responsiva, tratamento de erros, visualização organizada dos dados e geração de arquivo formatado.
+
+Tecnologias: React, Tailwind, API pública, UX e manipulação de dados.
+
+### Automações com IA
+Workflows inteligentes para atendimento, confirmação de eventos, coleta de feedback, organização de dados e integração entre ferramentas.
+
+Tecnologias: n8n, APIs, Google Sheets, webhooks e agentes de IA.
+
+## Objetivo profissional
+
+Construir soluções digitais úteis, claras e escaláveis, unindo desenvolvimento, design, automação e visão de produto para gerar resultado real para empresas e usuários.
 
 ## Contato
 
